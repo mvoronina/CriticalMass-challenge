@@ -1,0 +1,12 @@
+{
+  "name": "team-roster-takehome",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/7mjy0938n0",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
